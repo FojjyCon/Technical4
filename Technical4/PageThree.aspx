@@ -5,7 +5,7 @@
     <section class="page-section bg-primary text-white mb-0" id="PageThree">
             <div class="container" style="margin-top:30px">
                 <!-- About Section Heading-->
-                <h2 class="page-section-heading text-center text-uppercase text-white">PageThree</h2>
+                <h2 class="page-section-heading text-center text-uppercase text-white">Download Our Dog Photos</h2>
                 <!-- Icon Divider-->
                 <div class="divider-custom divider-light">
                     <div class="divider-custom-line"></div>
@@ -21,7 +21,7 @@
                 <div class="text-center mt-4">
                     <a class="btn btn-xl btn-outline-light" href="https://startbootstrap.com/theme/freelancer/">
                         <i class="fas fa-download mr-2"></i>
-                        Free Download!
+                        Download!
                     </a>
                 </div>
             </div>
@@ -48,11 +48,9 @@
                     </div>
                     <!-- Footer About Text-->
                     <div class="col-lg-4">
-                        <h4 class="text-uppercase mb-4">About Freelancer</h4>
+                        <h4 class="text-uppercase mb-4">About Pet Med System</h4>
                         <p class="lead mb-0">
-                            Freelance is a free to use, MIT licensed Bootstrap theme created by
-                            <a href="http://startbootstrap.com">Start Bootstrap</a>
-                            .
+                            About Pet Med System
                         </p>
                     </div>
                 </div>

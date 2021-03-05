@@ -14,15 +14,8 @@
                 </div>
                 <!-- About Section Content-->
                 <div class="row">
-                    <div class="col-lg-4 ml-auto"><p class="lead">Freelancer is a free bootstrap theme created by Start Bootstrap. The download includes the complete source files including HTML, CSS, and JavaScript as well as optional SASS stylesheets for easy customization.</p></div>
-                    <div class="col-lg-4 mr-auto"><p class="lead">You can create your own custom avatar for the masthead, change the icon in the dividers, and add your email address to the contact form to make it fully functional!</p></div>
-                </div>
-                <!-- About Section Button-->
-                <div class="text-center mt-4">
-                    <a class="btn btn-xl btn-outline-light" href="https://startbootstrap.com/theme/freelancer/">
-                        <i class="fas fa-download mr-2"></i>
-                        Free Download!
-                    </a>
+                    <div class="col-lg-4 ml-auto"><p class="lead">Our goal is to make sure every dog finds a home. As you saw on our home page we have a wide variety. Many breeds, and many personalities. We have been established for 50 years and plan on staying around for much longer.</p></div>
+                    <div class="col-lg-4 mr-auto"><p class="lead">The more dogs the merrier. They are fed the highest quality of buffalo daily alongside of their daily mac. Occasionally its cajun. This is the way weve been feeding our dogs since the beginning</p></div>
                 </div>
             </div>
         </section>
@@ -48,11 +41,9 @@
                     </div>
                     <!-- Footer About Text-->
                     <div class="col-lg-4">
-                        <h4 class="text-uppercase mb-4">About Freelancer</h4>
+                        <h4 class="text-uppercase mb-4">About Pet Med System</h4>
                         <p class="lead mb-0">
-                            Freelance is a free to use, MIT licensed Bootstrap theme created by
-                            <a href="http://startbootstrap.com">Start Bootstrap</a>
-                            .
+                            We take care of dogs and try to find them new homes.
                         </p>
                     </div>
                 </div>
