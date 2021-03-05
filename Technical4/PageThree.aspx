@@ -14,8 +14,8 @@
                 </div>
                 <!-- About Section Content-->
                 <div class="row">
-                    <div class="col-lg-4 ml-auto"><p class="lead">Freelancer is a free bootstrap theme created by Start Bootstrap. The download includes the complete source files including HTML, CSS, and JavaScript as well as optional SASS stylesheets for easy customization.</p></div>
-                    <div class="col-lg-4 mr-auto"><p class="lead">You can create your own custom avatar for the masthead, change the icon in the dividers, and add your email address to the contact form to make it fully functional!</p></div>
+                    <div class="col-lg-4 ml-auto"><p class="lead">We have had a lot of requests for seeing images of all our available dogs. Finally we have this option for all. The button below will download all of the pictures of the dogs we currently have in house.</p></div>
+                    <div class="col-lg-4 mr-auto"><p class="lead">Unfortunately as of right now there is no way to only download specific pics. The only option is to download the entire set of dog pictures. But thats okay! Theyre all great options! Enjoy!</p></div>
                 </div>
                 <!-- About Section Button-->
                 <div class="text-center mt-4">
